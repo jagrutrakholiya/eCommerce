@@ -29,10 +29,10 @@ const WeddingClotheType = () => {
             display: "flex",
             justifyContent: "center",
             margin: "35px 0 35px 0",
-            width:'100%'
+            width: "100%",
           }}
         >
-          <img src={Line} />
+          <img src={Line} width={350} />
         </div>
         <Row>
           <Col xs={12} md={3} lg={3} style={{ marginTop: "20px" }}>
@@ -49,8 +49,8 @@ const WeddingClotheType = () => {
                     left: "25px",
                   }}
                 >
-                  Kurta Sets
-                </div>
+                  Indo Western Sherwani
+                </div>  
               </Col>
               <Col
                 xs={12}
@@ -71,7 +71,7 @@ const WeddingClotheType = () => {
                     left: "25px",
                   }}
                 >
-                  Kurta Sets
+                  Wedding Sherwani
                 </div>
               </Col>
             </Row>
@@ -90,7 +90,7 @@ const WeddingClotheType = () => {
                     left: "25px",
                   }}
                 >
-                  Kurta Sets
+                  Collections
                 </div>
               </Col>
             </Row>
@@ -118,7 +118,7 @@ const WeddingClotheType = () => {
                         left: "25px",
                       }}
                     >
-                      Kurta Sets
+                      Jodhpuri Suits
                     </div>
                   </div>
                 </a>

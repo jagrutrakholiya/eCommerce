@@ -16,7 +16,7 @@ const WeddingCostumCard = () => {
           <h4 style={{color:'#797B7E',textAlignL:'center',display:'flex',justifyContent: 'center',margin:'5px 0 10      px 0',fontSize: '16px',lineHeight: '1.5',textAlign:'center'}}>You’ll always be in fashion with our collection of clothing</h4>
       </div>
      <div style={{fontWeight:'bold',textAlignL:'center',display:'flex',justifyContent: 'center',margin:'35px 0 35px 0',width:'100%'}}>
-         <img src={Line}/>
+         <img src={Line} width={350}/>
      </div>
      <div>
          <Container>
